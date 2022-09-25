@@ -1,0 +1,28 @@
+body {
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    background-color: #d3d3d3;
+    font-family: 'Oxygen', sans-serif;
+  }
+
+#header-nav {
+    background-color: #555555;
+    border-radius: 0;
+    width: 100%;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+
+.navbar-brand {
+    font-family: 'Oxygen', sans-serif;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+h3 {
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
